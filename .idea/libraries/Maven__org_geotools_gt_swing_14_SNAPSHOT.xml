@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.geotools:gt-swing:14-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/geotools/gt-swing/14-SNAPSHOT/gt-swing-14-20150611.043754-131.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/geotools/gt-swing/14-SNAPSHOT/gt-swing-14-20150611.043754-131-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/geotools/gt-swing/14-SNAPSHOT/gt-swing-14-20150611.043754-131-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
